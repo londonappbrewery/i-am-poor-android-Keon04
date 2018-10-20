@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">I Am Poor</string>
+    <string name="app_name">I am poor</string>
+    <string name="body">I am poor,</string>
+    <string name="bottom">so do not ask me for money.</string>
 </resources>
